@@ -1,5 +1,5 @@
 # <div align="center" font-size="24px">Hola,This is Mrudula Umalkar👋</div>
-<br>
+
 
 - 🔭 I’m currently working on Web Development projects.
 - 🌱 I’m currently learning React and ML.
