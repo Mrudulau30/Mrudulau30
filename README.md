@@ -1,6 +1,6 @@
 ## Hola,This is Mrudula Umalkar👋
 <br>
-<hr style="border:1px solid red"></hr>
+
 
 
 - 🌱 I’m currently learning React and ML
