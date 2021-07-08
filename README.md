@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning React and ML.
 - 🤔 I’m looking for help with interview preparation.
 - 📫 How to reach me : 
-     <ul>
-  <li>Connect with me on  <a href="https://www.linkedin.com/in/mrudula-umalkar-9baa9b194/">Linkdein</a></li>
-     <li>Write a mail to me on mrudulau30@gmail.com</li>
+     
+   -Connect with me on  <a href="https://www.linkedin.com/in/mrudula-umalkar-9baa9b194/">Linkdein</a>
+    -Write a mail to me on mrudulau30@gmail.com
   </ul>
 - ⚡ Fun fact:I love to paint and sketch. Apart from this I am part-time memer😉and can make momos better than dolma aunty😆
 
