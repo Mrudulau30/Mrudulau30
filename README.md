@@ -1,14 +1,15 @@
 ## Hola,This is Mrudula Umalkar👋
 <br>
-<br>
-<hr style="border:2px solid red"></hr>
+<hr style="border:1px solid red"></hr>
 
 
 - 🌱 I’m currently learning React and ML
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🤔 I’m looking for help with interview preparation
+- 📫 How to reach me : 
+     <ul>
+  <li>Click on any Social Media Icon given in Connect with me section.</li>
+  <li>Write a mail to me on mrudulau30@gmail.com</li>
+  </ul>
+
 - ⚡ Fun fact: ...
 
