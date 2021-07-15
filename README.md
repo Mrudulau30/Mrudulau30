@@ -10,9 +10,9 @@
   
 - ⚡ Fun fact: I love to paint and sketch. Apart from this I am part-time memer😉and can make momos better than dolma aunty😆
 ---------------------------------------------------------------------------------------------------------------------
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mrudulau30&theme=highcontrast" alt="GitHub Streak" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mrudulau30&theme=highcontrast" alt="GitHub Streak" />
 
-<p align="center">:trident:Github Stats:trident: | :octocat:Languages Used:octocat:
+:trident:Github Stats:trident: | :octocat:Languages Used:octocat:
 ------------- | -------------
 ![Mrudula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrudulau30&show_icons=true&theme=great-gatsby) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudulau30)](https://github.com/Mrudulau30/github-readme-stats)</p>
 
