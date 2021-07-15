@@ -19,7 +19,7 @@
  -------------------------------------------------------------------------------------------------------------------------
  <p align="center">Connect Here
   
-  <a href="https://www.linkedin.com/in/mrudula-umalkar-9baa9b194/"><img height="50" src="https://th.bing.com/th/id/OIP.QkU0Vf5aO5Gv8Yf4rXc4qwHaHa?w=172&h=180&c=7&o=5&dpr=1.25&pid=1.7"> </a>
+  <a href="https://www.linkedin.com/in/mrudula-umalkar-9baa9b194/"><img height="50" src="https://th.bing.com/th/id/OIP.fq-vNiPeilsMeWtp_qdjSwHaHa?w=173&h=180&c=7&o=5&dpr=1.25&pid=1.7"> </a>
 
 
 
