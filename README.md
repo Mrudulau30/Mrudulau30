@@ -17,10 +17,11 @@
 ------------- | -------------
 ![Mrudula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrudulau30&show_icons=true&theme=great-gatsby) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudulau30)](https://github.com/Mrudulau30/github-readme-stats)</p>
  -------------------------------------------------------------------------------------------------------------------------
- <p align="center">Connect Here
+<!--  <p align="center">Connect Here
   
   <a href="https://www.linkedin.com/in/mrudula-umalkar-9baa9b194/"><img height="50" src="https://th.bing.com/th/id/OIP.fq-vNiPeilsMeWtp_qdjSwHaHa?w=173&h=180&c=7&o=5&dpr=1.25&pid=1.7"> </a>
-
+  <a href=""><img height="50" src="https://th.bing.com/th/id/OIP.sBEMc0A9CIBQ7wuyeLWXDQHaHa?w=188&h=188&c=7&o=5&dpr=1.25&pid=1.7"></a>
+ -->
 
 
 
