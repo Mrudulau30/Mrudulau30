@@ -12,9 +12,9 @@
 ---------------------------------------------------------------------------------------------------------------------
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mrudulau30&theme=highcontrast" alt="GitHub Streak" /></p>
 
-:trident:Github Stats:trident: | :octocat:Languages Used:octocat:
+<div align="center">:trident:Github Stats:trident: | :octocat:Languages Used:octocat:
 ------------- | -------------
-![Mrudula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrudulau30&show_icons=true&theme=great-gatsby) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudulau30)](https://github.com/Mrudulau30/github-readme-stats)
+![Mrudula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrudulau30&show_icons=true&theme=great-gatsby) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudulau30)](https://github.com/Mrudulau30/github-readme-stats)</div>
 
 
 
