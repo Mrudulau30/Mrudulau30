@@ -16,10 +16,10 @@
 :trident:Github Stats: | :octocat:Languages Used:
 ------------- | -------------
 ![Mrudula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrudulau30&show_icons=true&theme=great-gatsby) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudulau30)](https://github.com/Mrudulau30/github-readme-stats)</p>
- 
+ -------------------------------------------------------------------------------------------------------------------------
  <p align="center">Connect Here
   
-  <a href="https://www.linkedin.com/in/mrudula-umalkar-9baa9b194/"><img src="https://th.bing.com/th/id/OIP.Ff1a2zx1DnGg5rppyqq-XwHaHa?w=172&h=180&c=7&o=5&dpr=1.25&pid=1.7"> </a>
+  <a href="https://www.linkedin.com/in/mrudula-umalkar-9baa9b194/"><img height="50" src="https://th.bing.com/th/id/OIP.QkU0Vf5aO5Gv8Yf4rXc4qwHaHa?w=172&h=180&c=7&o=5&dpr=1.25&pid=1.7"> </a>
 
 
 
