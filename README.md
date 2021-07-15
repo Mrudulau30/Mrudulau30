@@ -1,5 +1,6 @@
 # <div align="center" font-size="24px">Hola,This is Mrudula Umalkar👋</div>
-
+ 
+ Namaskar! I am 4th year undergraduate at YCCE,Nagpur pursuing B.Tech in Computer Technology.I am passionate about<b> Competitive Programming</b> and <b>Front end web development.I will always give my best to adapt any situation thrown at me,with a desire to learn as much as possible from it.
 
  - 🔭 I’m currently working on Web Development projects.
  - 🌱 I’m currently learning React and ML.
