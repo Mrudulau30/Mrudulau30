@@ -15,7 +15,7 @@
 
 :trident:Github Stats: | :octocat:Languages Used:
 ------------- | -------------
-![Mrudula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrudulau30&show_icons=true&theme=great-gatsby) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudulau30)](https://github.com/Mrudulau30/github-readme-stats)</p>
+![Mrudula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrudulau30&show_icons=true&theme=great-gatsby) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudulau30&layout=compact)](https://github.com/Mrudulau30/github-readme-stats)</p>
  -------------------------------------------------------------------------------------------------------------------------
 <!--  <p align="center">Connect Here
   
