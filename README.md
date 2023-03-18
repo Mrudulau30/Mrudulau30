@@ -1,9 +1,8 @@
 # <div align="center" font-size="24px">Hola,This is Mrudula Umalkar👋</div>
  
- Namaskar! I am 4th year undergraduate at YCCE, Nagpur pursuing B.Tech in Computer Technology. I am passionate about<b> Competitive Programming</b> and <b>Front end web development</b>. I will always give my best to adapt any situation thrown at me,with a desire to learn as much as possible from it.
+ Namaskar! I am FTE working as QAE 1 at Amazon. I completed my engineering from Yeshwantrao Chavan College of Engineering, Nagpur in Computer Technology. Apart from job, I am passionate about<b> Competitive Programming</b> and <b>Front end web development</b>. I will always give my best to adapt any situation thrown at me,with a desire to learn as much as possible from it.
 
- - 🔭 I’m currently working on Web Development projects.
- - 🌱 I’m currently learning Core JAVA.
+
  - 📫 How to reach me : 
      - Connect with me on  <a href="https://www.linkedin.com/in/mrudula-umalkar-9baa9b194/">Linkdein</a>.
      - Write a mail to me on mrudulau30@gmail.com .
